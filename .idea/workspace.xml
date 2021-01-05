@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add problem3.py">
-      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Greedy_problem1.py">
+      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Greedy_problem1">
+  <component name="RunManager" selected="Python.Greedy_problem2">
     <configuration name="Greedy_problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Greedy_problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/example1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/Greedy_problem2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Greedy_problem2" />
         <item itemvalue="Python.Greedy_problem1" />
         <item itemvalue="Python.problem3" />
         <item itemvalue="Python.problem2" />
         <item itemvalue="Python.problem1" />
-        <item itemvalue="Python.example1" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609812129431</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Greedy_problem1.py">
+      <created>1609824979132</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609824979132</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,25 +230,26 @@
     <MESSAGE value="Add problem1.py" />
     <MESSAGE value="Add problem2.py" />
     <MESSAGE value="Add problem3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add problem3.py" />
+    <MESSAGE value="Add Greedy_problem1.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Greedy_problem1.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1609824337685">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609825339240">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609824337685" />
-    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1609824337684">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609825339240" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609825339237">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609824337684" />
-    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1609824337683">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609825339237" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609825339236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609824337683" />
-    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1609824337684">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609825339236" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609825339238">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609824337684" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609825339238" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1609824337687">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -259,5 +266,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609824337687" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1609826033870">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826033870" />
   </component>
 </project>
