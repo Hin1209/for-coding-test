@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add comment to Greedy_problem1.py">
-      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem3.py" afterDir="false" />
+    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Greedy_problem3.py">
+      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Greedy_problem3">
+  <component name="RunManager" selected="Python.Greedy_problem4">
     <configuration name="Greedy_problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Greedy_problem4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/problem2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/Greedy_problem4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Greedy_problem4" />
         <item itemvalue="Python.Greedy_problem3" />
         <item itemvalue="Python.Greedy_problem2" />
         <item itemvalue="Python.Greedy_problem1" />
         <item itemvalue="Python.problem3" />
-        <item itemvalue="Python.problem2" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609826291968</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Greedy_problem3.py">
+      <created>1609829265242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609829265242</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,44 +255,49 @@
     <MESSAGE value="Add Greedy_problem1.py" />
     <MESSAGE value="Add Greedy_problem2.py" />
     <MESSAGE value="Add comment to Greedy_problem1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comment to Greedy_problem1.py" />
+    <MESSAGE value="Add Greedy_problem3.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Greedy_problem3.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609827125586">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609831464972">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609827125586" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609827125585">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609831464972" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609831464970">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609827125585" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609827125584">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609831464970" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609831464969">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609827125584" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609827125585">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609831464969" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609831464971">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609827125585" />
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1609827111273">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609831464971" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1609830761260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609827111273" />
-    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1609827111272">
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609830761260" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1609830761258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609827111272" />
-    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1609827111272">
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609830761258" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1609830761258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609827111272" />
-    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1609827111273">
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609830761258" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1609830761259">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609827111273" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609830761259" />
     <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1609826033870">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826033870" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1609830660775">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1609830660775" />
   </component>
 </project>
