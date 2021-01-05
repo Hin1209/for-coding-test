@@ -1,3 +1,4 @@
+#모험가 길드
 import time
 n = int(input())
 ad = list(map(int, input().split()))
