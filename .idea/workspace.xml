@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Greedy_problem4.py">
-      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/example1.py" afterDir="false" />
-    </list>
+    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add comment for incoding Korean.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1609832283461</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Greedy_problem5.py">
+      <created>1609906625215</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609906625215</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Greedy_problem6.py">
+      <created>1609906631854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609906631854</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add comment for incoding Korean.py">
+      <created>1609906688943</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1609906688943</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +283,10 @@
     <MESSAGE value="Add comment to Greedy_problem1.py" />
     <MESSAGE value="Add Greedy_problem3.py" />
     <MESSAGE value="Add Greedy_problem4.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Greedy_problem4.py" />
+    <MESSAGE value="Add Greedy_problem5.py" />
+    <MESSAGE value="Add Greedy_problem6.py" />
+    <MESSAGE value="Add comment for incoding Korean.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comment for incoding Korean.py" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609897861006">
