@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 def solution(food_times, k):
     answer = 0
     sum_food = sum(food_times)

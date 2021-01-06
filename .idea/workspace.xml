@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add comment for incoding Korean.py" />
+    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add comment for incoding">
+      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609906688943</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add comment to Greedy_problem5.py">
+      <created>1609908154920</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1609908154920</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add comment for incoding">
+      <created>1609908226521</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609908226521</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,26 +301,32 @@
     <MESSAGE value="Add Greedy_problem4.py" />
     <MESSAGE value="Add Greedy_problem5.py" />
     <MESSAGE value="Add Greedy_problem6.py" />
-    <MESSAGE value="Add comment for incoding Korean.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comment for incoding Korean.py" />
+    <MESSAGE value="Add comment for incoding" />
+    <MESSAGE value="Add comment to Greedy_problem5.py" />
+    <MESSAGE value="Add comment for incoding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comment for incoding" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609897861006">
+    <state x="541" y="356" key="GitRewordDialog" timestamp="1609908260163">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609897861006" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609897861004">
+    <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1609908232315">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609897861004" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609897861003">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609908232315" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1609908232312">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609897861003" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609897861005">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609908232312" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1609908232310">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609897861005" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609908232310" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1609908232314">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609908232314" />
     <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1609833247889">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
