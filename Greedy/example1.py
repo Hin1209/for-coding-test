@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 n = int(input())
 count = 0
 unit = [500, 100, 50, 10]

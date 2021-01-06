@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #곱하기 혹은 더하기
 import time
 

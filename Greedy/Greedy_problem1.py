@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #모험가 길드
 import time
 n = int(input())
