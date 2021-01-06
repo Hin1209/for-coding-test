@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #큰 수의 법칙
 import sys
 n, m, k = map(int, input().split())
