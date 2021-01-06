@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#나중에 다익스트라 알고리즘 배우고 다시 풀기
 
 def solution(food_times, k):
     answer = 0
