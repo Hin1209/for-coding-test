@@ -4,7 +4,7 @@ import sys
 n = sys.stdin.readline()
 plus_index = [] # + 나오는 위치 저장
 minus_index = [] # - 나오는 위치 저장
-count = 0 # + - 위치 파악
+count = 1 # + - 위치 파악
 open = 0 # 괄호 열기
 for i in range(len(n)):
     if(n[i] == '+'):
@@ -20,19 +20,16 @@ for i in range(len(n)):
    lis.append(n[i].split('-')) # lis에 n의 모든 원소들을 - 로 스플릿한 결과를 담음
 for i in range(len(lis)):
     for j in range(len(lis[i])):
-        num_list.append(map(int, lis[i][j].split())) # lis에 [[34], [23 54], [43 54 64]] 이런식으로 저장되는데 숫자만 모두 빼내기 위한 코드
+        num_list.append(list(map(int, lis[i][j].split()))) # lis에 [[34], [23 54], [43 54 64]] 이런식으로 저장되는데 숫자만 모두 빼내기 위한 코드
 f_num = num_list[0][0] # 처음 시작하는 숫자
 minus = 0 # 빼줄 숫자
 for i in range(1, len(num_list)):
     if(i in minus_index and open == 0): # - 부호가 처음으로 나오면(open == 0) minus에 숫자를 추가하고 괄호를 열어줌(open = 1)
         minus += num_list[i][0]
         open = 1
-    elif(i in minus_index and open == 1): # 괄호가 열려있고 - 가 또 나오면 지금까지 나온 minus를 빼주고 minus를 새로운 숫자로 초기화시킴
-        f_num -= minus
-        minus = num_list[i][0]
-    elif(i in plus_index and open == 1): # + 부호가 괄호가 열려있는 상태에서 나오면 -괄호 안이므로 minus에 더해줌
+    elif(open == 1): # - 부호 이후에 나오는 숫자는 모두 빼줌
         minus += num_list[i][0]
-    else: # 나머지 경우는 -가 나오기 전에 +만 나오는 구간이므로 결과값에 계속 더함
+    elif(i in plus_index and open == 0): # 나머지 경우는 -가 나오기 전에 +만 나오는 구간이므로 결과값에 계속 더함
         f_num += num_list[i][0]
     if (i == len(num_list) - 1): # 괄호가 닫히지 않은 상태로 끝나면 지금까지 나온 minus들을 빼주고 마무리함
         f_num -= minus
