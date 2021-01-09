@@ -28,10 +28,10 @@ def solution(key, lock):
             answer = False
             break
         else:
-            for i in range(-max(len(lock), len(key)), max(len(lock), len(key))+1):
+            for i in range(-len(lock), len(lock)+1):
                 if (count == len(p_lock) and stop == 1):
                     break
-                for j in range(-max(len(lock), len(key)), max(len(lock), len(key))+1):
+                for j in range(-len(lock), len(lock)+1):
                     count = 0
                     tmp = []
                     for k in p_key:

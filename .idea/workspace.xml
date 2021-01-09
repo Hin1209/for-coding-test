@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
-      <change afterPath="$PROJECT_DIR$/Implementation/Implementation_problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/Implementation_problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/Implementation_problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/Implementation_problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/problem2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation/Implementation_problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Implementation_problem4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -415,7 +410,49 @@
       <option name="project" value="LOCAL" />
       <updated>1610116436208</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Add Implementation_problem1.py">
+      <created>1610204250190</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204250190</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add Implementation_problem2.py">
+      <created>1610204255867</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204255868</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add Implementation_problem3.py">
+      <created>1610204261584</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204261584</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add Implementation_problem4.py">
+      <created>1610204266672</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204266672</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add problem2.py">
+      <created>1610204278644</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204278644</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add README.md">
+      <created>1610204321591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204321591</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,12 +468,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add example1.py" />
-    <MESSAGE value="Add problem1.py" />
-    <MESSAGE value="Add problem2.py" />
-    <MESSAGE value="Add problem3.py" />
-    <MESSAGE value="Add Greedy_problem1.py" />
-    <MESSAGE value="Add Greedy_problem2.py" />
     <MESSAGE value="Add comment to Greedy_problem1.py" />
     <MESSAGE value="Add Greedy_problem3.py" />
     <MESSAGE value="Add Greedy_problem4.py" />
@@ -456,7 +487,13 @@
     <MESSAGE value="Add Implementation/example1.py" />
     <MESSAGE value="Add Implementation/example2.py" />
     <MESSAGE value="Add Implementation/problem1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Implementation/problem1.py" />
+    <MESSAGE value="Add Implementation_problem1.py" />
+    <MESSAGE value="Add Implementation_problem2.py" />
+    <MESSAGE value="Add Implementation_problem3.py" />
+    <MESSAGE value="Add Implementation_problem4.py" />
+    <MESSAGE value="Add problem2.py" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="121" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610173938630">
