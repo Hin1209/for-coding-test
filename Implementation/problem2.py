@@ -36,6 +36,8 @@ while True:
                         # count += 1 이미 방문한 칸은 세지 않음
                         continue
                 dirc = 3
+        else:
+            dirc = 3
 
     elif(dirc == 1):
         lefx = posx
@@ -61,6 +63,8 @@ while True:
                         # count += 1
                         continue
                 dirc = 0
+        else:
+            dirc = 0
 
     elif(dirc == 2):
         lefx = posx + dx[2]
@@ -86,6 +90,8 @@ while True:
                         # count += 1
                         continue
                 dirc = 1
+        else:
+            dirc = 1
 
     elif(dirc == 3):
         lefx = posx
@@ -111,4 +117,6 @@ while True:
                         # count += 1
                         continue
                 dirc = 2
+        else:
+            dirc = 2
 print(count)
