@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
+      <change afterPath="$PROJECT_DIR$/BFS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/programmers60062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/Implementation_problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Implementation_problem4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation/BOJ15686.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ15686.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,71 +54,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Implementation_problem4">
-    <configuration name="Implementation_problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Implementation_problem1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Implementation_problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Implementation_problem2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Implementation_problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Implementation_problem3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Implementation_problem4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.problem1">
+    <configuration name="BOJ15686" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +67,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Implementation_problem4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/BOJ15686.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ3190" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/BOJ3190.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +139,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jhjjk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="programmers60061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +172,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/jhjjk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/programmers60061.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="programmers60062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/programmers60062.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,19 +204,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Implementation_problem1" />
-      <item itemvalue="Python.Implementation_problem2" />
-      <item itemvalue="Python.Implementation_problem3" />
-      <item itemvalue="Python.jhjjk" />
-      <item itemvalue="Python.Implementation_problem4" />
+      <item itemvalue="Python.BOJ3190" />
+      <item itemvalue="Python.programmers60061" />
+      <item itemvalue="Python.BOJ15686" />
+      <item itemvalue="Python.programmers60062" />
+      <item itemvalue="Python.problem1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Implementation_problem4" />
-        <item itemvalue="Python.Implementation_problem3" />
-        <item itemvalue="Python.jhjjk" />
-        <item itemvalue="Python.Implementation_problem2" />
-        <item itemvalue="Python.Implementation_problem1" />
+        <item itemvalue="Python.problem1" />
+        <item itemvalue="Python.programmers60062" />
+        <item itemvalue="Python.BOJ15686" />
+        <item itemvalue="Python.programmers60061" />
+        <item itemvalue="Python.BOJ3190" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +455,91 @@
       <option name="project" value="LOCAL" />
       <updated>1610204321591</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Modify line 32 and 34 &#10;use len(lock) for substitute max(len(lock), len(key)&#10;because of given condition that len(lock) is always &#10;bigger than len(key)">
+      <created>1610204835119</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1610204835119</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add remark">
+      <created>1610205658978</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1610205658978</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add BOJ14503.py">
+      <created>1610289918372</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289918372</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add BOJ14500.py">
+      <created>1610289923815</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1610289923815</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Modify Implement/problem2.py&#10;add code for condition that character don't move but direction need to change.">
+      <created>1610290108159</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1610290108159</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Rename from Implementation_problem2.py">
+      <created>1610353083435</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353083435</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Rename from Implementation_problem3.py">
+      <created>1610353095346</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353095346</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Rename from Implementation_problem4.py">
+      <created>1610353102322</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353102322</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Rename from Implementation_problem1.py">
+      <created>1610353110071</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353110071</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Add programmers60061.py">
+      <created>1610353132354</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353132354</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add BOJ3190.py">
+      <created>1610353145653</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1610353145653</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add BOJ15686.py">
+      <created>1610357966963</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1610357966963</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,18 +555,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add comment to Greedy_problem1.py" />
-    <MESSAGE value="Add Greedy_problem3.py" />
-    <MESSAGE value="Add Greedy_problem4.py" />
-    <MESSAGE value="Add Greedy_problem5.py" />
-    <MESSAGE value="Add Greedy_problem6.py" />
-    <MESSAGE value="Add comment to Greedy_problem5.py" />
-    <MESSAGE value="Add comment for incoding" />
-    <MESSAGE value="Add comment for incoding" />
-    <MESSAGE value="Add comment for checking &quot;unsolved problem&quot;" />
-    <MESSAGE value="Add content of information of Greedy problem to README.md" />
-    <MESSAGE value="Add BOJ11497.py" />
-    <MESSAGE value="Add BOJ1946.py" />
     <MESSAGE value="Add BOJ11399.py" />
     <MESSAGE value="Add BOJ1541.py" />
     <MESSAGE value="Modify BOJ1541.py for Python version 3.7" />
@@ -493,7 +568,19 @@
     <MESSAGE value="Add Implementation_problem4.py" />
     <MESSAGE value="Add problem2.py" />
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Modify line 32 and 34 &#10;use len(lock) for substitute max(len(lock), len(key)&#10;because of given condition that len(lock) is always &#10;bigger than len(key)" />
+    <MESSAGE value="Add remark" />
+    <MESSAGE value="Add BOJ14503.py" />
+    <MESSAGE value="Add BOJ14500.py" />
+    <MESSAGE value="Modify Implement/problem2.py&#10;add code for condition that character don't move but direction need to change." />
+    <MESSAGE value="Rename from Implementation_problem2.py" />
+    <MESSAGE value="Rename from Implementation_problem3.py" />
+    <MESSAGE value="Rename from Implementation_problem4.py" />
+    <MESSAGE value="Rename from Implementation_problem1.py" />
+    <MESSAGE value="Add programmers60061.py" />
+    <MESSAGE value="Add BOJ3190.py" />
+    <MESSAGE value="Add BOJ15686.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ15686.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="121" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610173938630">
@@ -508,38 +595,46 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1610178530466">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1610435644196">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610178530466" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1610178530463">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610435644196" />
+    <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1610435644194">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610178530463" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1610178530461">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610435644194" />
+    <state width="1419" height="316" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1610435644193">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610178530461" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1610178530465">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610435644193" />
+    <state width="1419" height="316" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1610435644195">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610178530465" />
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1610176963422">
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610435644195" />
+    <state width="1419" height="316" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
+    <state width="1419" height="316" key="GridCell.Tab.1.bottom" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610176963422" />
-    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1610176963422">
+    <state width="1419" height="316" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610435305707" />
+    <state width="1419" height="316" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003939" />
+    <state width="1419" height="316" key="GridCell.Tab.1.center" timestamp="1610435305706">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1610176963422" />
-    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1610176963421">
+    <state width="1419" height="316" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1610435305706" />
+    <state width="1419" height="316" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
+    <state width="1419" height="316" key="GridCell.Tab.1.left" timestamp="1610435305705">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1610176963421" />
-    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1610176963422">
+    <state width="1419" height="316" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1610435305705" />
+    <state width="1419" height="316" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
+    <state width="1419" height="316" key="GridCell.Tab.1.right" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1610176963422" />
+    <state width="1419" height="316" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1610435305707" />
+    <state width="1419" height="316" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003939" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1610168257846">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -548,10 +643,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826033870" />
-    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1609830660775">
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1610435261830">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1609830660775" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1610435261830" />
     <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1610081176727">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
@@ -560,5 +655,27 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="dock-window-2/0.25.1440.875@0.25.1440.875" timestamp="1610081176728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Implementation/programmers60062.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Implementation/programmers60062.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="dx" />
+        <watch expression="dx" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
