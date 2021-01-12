@@ -1,4 +1,4 @@
-def check_balance(s):
+def check_balance(s): # 맵 전체에 대해 검사하지 않고 answer에 바로바로 build_frame을 저장하여 answer에 대해서만 검사해주면 더 빠름
     unsafe = 0
     for i in range(len(s)):
         for j in range(len(s)):
