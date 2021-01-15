@@ -1,7 +1,9 @@
 #BFS&DFS 알고리즘      
+------
 BFS와 DFS는 각각 너비 우선 탐색, 깊이 우선 탐색 알고리즘이다.  
 BFS는 보통 선입선출 방식인 큐 자료구조를 이용하여 구현하고,    
 DFS는 선입후출 방식인 stack 이나 재귀함수를 이용하여 구현한다.   
+   
 ---- 
 * 음료수 얼려 먹기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem1.py))
 * 미로 탈출 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem2.py))
