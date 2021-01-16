@@ -25,3 +25,5 @@ sort(key = function()) 을 통해 정렬의 기준을 지정해줄수 있다. �
 * 성적이 낮은 순서로 학생 출력하기 ([Python 3.7]())
 * 두 배열의 원소 교체 ([Python 3.7]())
 * [국영수](https://www.acmicpc.net/problem/10825) ([Python 3.7]())
+* [안테나](https://www.acmicpc.net/problem/18310) ([Python 3.7]())
+* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) ([Python 3.7]())
