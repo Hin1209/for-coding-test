@@ -31,10 +31,10 @@ def binary_search(array, target, start, end):
     return None
 ~~~
 ----
-* 부품 찾기 ([Python 3.7]())
-* 떡볶이 떡 만들기 ([Python 3.7]())
-* 정렬된 배열에서 특정 수의 개수 구하기 ([Python 3.7]())
-* 고정점 찾기 ([Python 3.7]()) 
-* [공유기 설치](https://www.acmicpc.net/problem/2110) ([Python 3.7]())  
-* [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) ([Python 3.7]()) 
+* 부품 찾기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/problem1.py))
+* 떡볶이 떡 만들기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/problem2.py))
+* 정렬된 배열에서 특정 수의 개수 구하기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/Binary_search_problem1.py))
+* 고정점 찾기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/Binary_search_problem2.py)) 
+* [공유기 설치](https://www.acmicpc.net/problem/2110) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/BOJ2110.py))  
+* [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/programmers60060.py)) 
   
