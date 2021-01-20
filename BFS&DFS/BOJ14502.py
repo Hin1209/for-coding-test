@@ -36,17 +36,17 @@ for i in range(n):
             zero.append([i, j])
         elif board[i][j] == 2:
             virus.append([i, j])
-chose_wall = list(combinations(zero, 3))
+chose_wall = list(combinations(zero, 3)) # 벽을 설치하는 모든 경우의 수
 max = 0
 
-for i in chose_wall:
+for i in chose_wall: # 벽을 설치하는 모든 경우의 수에 대해 반복
     tmp = copy.deepcopy(board)
     for j in range(3):
-        tmp[i[j][0]][i[j][1]] = 1
-    tmp_m = bfs(tmp, virus)
+        tmp[i[j][0]][i[j][1]] = 1 # 벽 설치
+    tmp_m = bfs(tmp, virus) # 바이러스 전파 후 안전 지대 반환
     if tmp_m > max:
         max = tmp_m
-print(max)
+print(max) # 안전 지대가 가장 많이 남는 경우
 
 
 

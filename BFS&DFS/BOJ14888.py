@@ -19,9 +19,9 @@ num_operator = []
 for i in range(4):
     for j in range(operator[i]):
         num_operator.append(i)
-ope = list(permutations(num_operator))
+ope = list(permutations(num_operator)) # 모든 연산자를 나열하는 경우의 수를 저장
 d_op = set()
-for i in range(len(ope)):
+for i in range(len(ope)): # 각각의 경우의 수를 계산하여 최솟값과 최댓값 찾기
     d_op.add(ope[i])
 min = 0
 max = 0
@@ -30,7 +30,7 @@ for i in d_op:
     result = num[0]
     for j in range(n-1):
         result = operate(result, num[j+1], i[j])
-    if f == 0:
+    if f == 0: # 반복문이 처음일 때 최솟값과 최댓값을 초기값으로 설정
         min = result
         max = result
         f += 1
