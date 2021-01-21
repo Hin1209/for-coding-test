@@ -29,8 +29,7 @@ x 표시는 아직 못 푼 문제
 * [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/programmers60061.py))
 * [치킨 배달](https://www.acmicpc.net/problem/15686) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ15686.py))
 * X [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/programmers60062.py))
----
- 
+---   
 ## BFS/DFS  
 * 음료수 얼려 먹기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem1.py))
 * 미로 탈출 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem2.py))
@@ -59,4 +58,9 @@ x 표시는 아직 못 푼 문제
 * 고정점 찾기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/Binary_search_problem2.py)) 
 * [공유기 설치](https://www.acmicpc.net/problem/2110) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/BOJ2110.py))  
 * x [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/programmers60060.py)) 
----
+---   
+## 다이나믹 프로그래밍   
+* 1로 만들기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/problem1.py))   
+* 개미 전사 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/problem2.py))  
+* 바닥 공사 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/problem3.py))  
+* 효율적인 화폐 구성 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/problem4.py))     
