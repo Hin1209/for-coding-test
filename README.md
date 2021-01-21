@@ -1,6 +1,6 @@
 # for-coding-test
 x 표시는 아직 못 푼 문제   
-##그리디   
+## 그리디   
 * 거스름돈 문제 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Greedy/example1.py))
 * 큰 수의 법칙 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Greedy/problem1.py))
 * 숫자 카드 게임 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Greedy/problem2.py)) 
@@ -16,7 +16,7 @@ x 표시는 아직 못 푼 문제
 * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Greedy/BOJ1541.py))
 * [ATM](https://www.acmicpc.net/problem/11399) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Greedy/BOJ11399.py))    
 ---
-##구현   
+## 구현   
 * 상하좌우 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/example1.py))
 * 시각 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/example2.py))
 * 왕실의 나이트 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/problem1.py)) 
@@ -30,8 +30,8 @@ x 표시는 아직 못 푼 문제
 * [치킨 배달](https://www.acmicpc.net/problem/15686) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ15686.py))
 * X [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/programmers60062.py))
 ---
-
-##BFS/DFS  
+ 
+## BFS/DFS  
 * 음료수 얼려 먹기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem1.py))
 * 미로 탈출 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem2.py))
 * [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ18352.py))
@@ -43,7 +43,7 @@ x 표시는 아직 못 푼 문제
 * [인구 이동](https://www.acmicpc.net/problem/16234) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ16234.py))
 * X [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/programmers60063.py))
 --- 
-##정렬   
+## 정렬   
 * 위에서 아래로 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem1.py))
 * 성적이 낮은 순서로 학생 출력하기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem2.py))
 * 두 배열의 원소 교체 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem3.py))
@@ -52,7 +52,7 @@ x 표시는 아직 못 푼 문제
 * [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/programmers42889.py))   
 * [카드 정렬하기](https://www.acmicpc.net/problem/1715) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/BOJ1715.py))
 ---
-##이진 탐색   
+## 이진 탐색   
 * 부품 찾기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/problem1.py))
 * 떡볶이 떡 만들기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/problem2.py))
 * 정렬된 배열에서 특정 수의 개수 구하기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Binary%20search/Binary_search_problem1.py))
