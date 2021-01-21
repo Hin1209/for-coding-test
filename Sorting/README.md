@@ -1,23 +1,9 @@
 #정렬 알고리즘  
 ----
 * 선택 정렬: 이중 for문을 이용해 자신보다 작은 원소가 나오면 자리를 바꿔주는 정렬(시간 복잡도 N**2)      
-~~~
-for i in range(len(array)):
-    min_index = i
-    for j in range(i+1, len(array)):
-        if array[min_index] > array[j]:
-            min_index = j
-    array[i], array[min_index] = array[min_index], array[i]
-~~~
+    
 * 삽입 정렬: 이중 for문을 이용. 왼쪽의 원소들과 비교하여 처음으로 자신보다 작은 원소가 나오는 위치에 삽입.(정렬이 많이 되어있을 수록 시간이 적게 소요됨.)     
-~~~
-for i in range(1, len(array)):
-    for j in range(i, 0, -1):
-        if array[j] < array[j-1]:
-            array[j], array[j-1] = array[j-1], array[j]
-        else:
-            break
-~~~
+     
 * 퀵 정렬:    
 (1) 첫번째 원소를 Pivot 으로 설정하고 다음 원소부터 오른쪽으로 가면서 Pivot 보다 큰 원소를, 끝에서부터 왼쪽으로 오면서 Pivot 보다 작은 원소를 찾는다.    
 (2) 이 때 큰 원소가 작은 원소보다 오른쪽에 있으면 Pivot과 작은 원소의 위치를 바꾸고 Pivot을 기준으로 왼쪽과 오른쪽의 리스트를 분할하여 (1) 부터 반복하고, 
@@ -35,3 +21,9 @@ for i in range(1, len(array)):
 sort(key = function()) 을 통해 정렬의 기준을 지정해줄수 있다. 보통 lambda 함수를 자주 이용한다.    
 정렬 라이브러리는 항상 최악의 경우에도 NlogN 의 시간 복잡도를 보장한다.    
 ----
+* 위에서 아래로 ([Python 3.7]())
+* 성적이 낮은 순서로 학생 출력하기 ([Python 3.7]())
+* 두 배열의 원소 교체 ([Python 3.7]())
+* [국영수](https://www.acmicpc.net/problem/10825) ([Python 3.7]())
+* [안테나](https://www.acmicpc.net/problem/18310) ([Python 3.7]())
+* [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) ([Python 3.7]())
