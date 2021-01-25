@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
-      <change afterPath="$PROJECT_DIR$/BFS/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/programmers60062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ15686.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ15686.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +50,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.problem1">
-    <configuration name="BOJ15686" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ11000">
+    <configuration name="BOJ11000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/BOJ15686.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/BOJ11000.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ3190" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ14501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +80,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/BOJ3190.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/BOJ14501.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ18353" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/BOJ18353.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dynamic_Programming_problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dynamic_Programming_problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,84 +198,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFS/problem1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="programmers60061" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/programmers60061.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="programmers60062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/programmers60062.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.BOJ3190" />
-      <item itemvalue="Python.programmers60061" />
-      <item itemvalue="Python.BOJ15686" />
-      <item itemvalue="Python.programmers60062" />
-      <item itemvalue="Python.problem1" />
+      <item itemvalue="Python.Dynamic_Programming_problem3" />
+      <item itemvalue="Python.BOJ14501" />
+      <item itemvalue="Python.BOJ18353" />
+      <item itemvalue="Python.Dynamic_Programming_problem2" />
+      <item itemvalue="Python.BOJ11000" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.problem1" />
-        <item itemvalue="Python.programmers60062" />
-        <item itemvalue="Python.BOJ15686" />
-        <item itemvalue="Python.programmers60061" />
-        <item itemvalue="Python.BOJ3190" />
+        <item itemvalue="Python.BOJ11000" />
+        <item itemvalue="Python.Dynamic_Programming_problem3" />
+        <item itemvalue="Python.Dynamic_Programming_problem2" />
+        <item itemvalue="Python.BOJ18353" />
+        <item itemvalue="Python.BOJ14501" />
       </list>
     </recent_temporary>
   </component>
@@ -230,132 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Add example1.py">
-      <created>1609750198502</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609750198502</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Add problem1.py">
-      <created>1609809165459</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1609809165459</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add problem2.py">
-      <created>1609810522184</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1609810522184</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add problem3.py">
-      <created>1609812129431</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1609812129431</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add Greedy_problem1.py">
-      <created>1609824979132</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1609824979132</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Add Greedy_problem2.py">
-      <created>1609826269688</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1609826269688</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Add comment to Greedy_problem1.py">
-      <created>1609826291968</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1609826291968</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Add Greedy_problem3.py">
-      <created>1609829265242</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1609829265242</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Add Greedy_problem4.py">
-      <created>1609832283461</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1609832283461</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Add Greedy_problem5.py">
-      <created>1609906625215</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1609906625215</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Add Greedy_problem6.py">
-      <created>1609906631854</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1609906631854</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Add comment for incoding Korean.py">
-      <created>1609906688943</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1609906688943</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Add comment to Greedy_problem5.py">
-      <created>1609908154920</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1609908154920</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Add comment for incoding">
-      <created>1609908226521</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1609908226521</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Add comment for incoding">
-      <created>1609908488351</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1609908488351</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Add comment for checking &quot;unsolved problem&quot;">
-      <created>1609910033980</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1609910033980</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Add content of information of Greedy problem to README.md">
-      <created>1610080379064</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1610080379064</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Add BOJ11497.py">
-      <created>1610080395010</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1610080395010</updated>
     </task>
     <task id="LOCAL-00019" summary="Add BOJ1946.py">
       <created>1610080403776</created>
@@ -539,7 +409,168 @@
       <option name="project" value="LOCAL" />
       <updated>1610357966963</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Update README.md">
+      <created>1611205802809</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1611205802809</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Update BOJ2110.py">
+      <created>1611207020823</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1611207020823</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Update BOJ16234.py">
+      <created>1611207445171</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1611207445171</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Update Binary_search_problem1.py">
+      <created>1611207848250</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1611207848250</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Update Binary_search_problem2.py">
+      <created>1611208164040</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1611208164040</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Update README.md">
+      <created>1611208286440</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1611208286440</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Rename">
+      <created>1611208436822</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1611208436823</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Add README.md">
+      <created>1611211199764</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1611211199764</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Add problem1.py">
+      <created>1611212989889</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1611212989889</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Add problem2.py">
+      <created>1611213496349</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1611213496349</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Add problem3.py">
+      <created>1611213949239</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1611213949239</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Add problem4.py">
+      <created>1611214834712</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1611214834712</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Update README.md">
+      <created>1611215107998</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1611215107998</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Add Dynamic_Programming_problem1.py">
+      <created>1611281838274</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1611281838275</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Add BOJ1932.py">
+      <created>1611289966059</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1611289966059</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Add BOJ14501.py">
+      <created>1611295732222</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1611295732222</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Add Dynamic_Programming_problem2.py">
+      <created>1611299424873</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1611299424873</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Add BOJ18353.py">
+      <created>1611301509972</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1611301509973</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Update Dynamic_Programming_problem1.py">
+      <created>1611301535432</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1611301535432</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update Dynamic_Programming_problem2.py">
+      <created>1611302880010</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1611302880010</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Add Dynamic_Programming_problem3.py">
+      <created>1611304624252</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1611304624252</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update README.md">
+      <created>1611304927585</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1611304927585</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Add README.md">
+      <created>1611539940154</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1611539940154</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,34 +586,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add BOJ11399.py" />
-    <MESSAGE value="Add BOJ1541.py" />
-    <MESSAGE value="Modify BOJ1541.py for Python version 3.7" />
-    <MESSAGE value="Add content about problems" />
-    <MESSAGE value="Add Implementation/example1.py" />
-    <MESSAGE value="Add Implementation/example2.py" />
-    <MESSAGE value="Add Implementation/problem1.py" />
-    <MESSAGE value="Add Implementation_problem1.py" />
-    <MESSAGE value="Add Implementation_problem2.py" />
-    <MESSAGE value="Add Implementation_problem3.py" />
-    <MESSAGE value="Add Implementation_problem4.py" />
-    <MESSAGE value="Add problem2.py" />
-    <MESSAGE value="Add README.md" />
-    <MESSAGE value="Modify line 32 and 34 &#10;use len(lock) for substitute max(len(lock), len(key)&#10;because of given condition that len(lock) is always &#10;bigger than len(key)" />
-    <MESSAGE value="Add remark" />
-    <MESSAGE value="Add BOJ14503.py" />
-    <MESSAGE value="Add BOJ14500.py" />
-    <MESSAGE value="Modify Implement/problem2.py&#10;add code for condition that character don't move but direction need to change." />
-    <MESSAGE value="Rename from Implementation_problem2.py" />
     <MESSAGE value="Rename from Implementation_problem3.py" />
     <MESSAGE value="Rename from Implementation_problem4.py" />
     <MESSAGE value="Rename from Implementation_problem1.py" />
     <MESSAGE value="Add programmers60061.py" />
     <MESSAGE value="Add BOJ3190.py" />
     <MESSAGE value="Add BOJ15686.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ15686.py" />
+    <MESSAGE value="Update BOJ2110.py" />
+    <MESSAGE value="Update BOJ16234.py" />
+    <MESSAGE value="Update Binary_search_problem1.py" />
+    <MESSAGE value="Update Binary_search_problem2.py" />
+    <MESSAGE value="Rename" />
+    <MESSAGE value="Add problem1.py" />
+    <MESSAGE value="Add problem2.py" />
+    <MESSAGE value="Add problem3.py" />
+    <MESSAGE value="Add problem4.py" />
+    <MESSAGE value="Add Dynamic_Programming_problem1.py" />
+    <MESSAGE value="Add BOJ1932.py" />
+    <MESSAGE value="Add BOJ14501.py" />
+    <MESSAGE value="Add Dynamic_Programming_problem2.py" />
+    <MESSAGE value="Add BOJ18353.py" />
+    <MESSAGE value="Update Dynamic_Programming_problem1.py" />
+    <MESSAGE value="Update Dynamic_Programming_problem2.py" />
+    <MESSAGE value="Add Dynamic_Programming_problem3.py" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="604" y="317" width="467" height="453" key="#Notifications/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611205965994" />
     <state x="121" y="124" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610173938630">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -595,25 +630,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1610435644196">
+    <state width="1419" height="316" key="GridCell.Tab.0.bottom" timestamp="1611394986656">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610435644196" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560249" />
+    <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
+    <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611305236211" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1610435644194">
+    <state width="1419" height="316" key="GridCell.Tab.0.center" timestamp="1611394986655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610435644194" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560247" />
+    <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986655" />
+    <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611305236210" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1610435644193">
+    <state width="1419" height="316" key="GridCell.Tab.0.left" timestamp="1611394986654">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610435644193" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560245" />
+    <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986654" />
+    <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611305236210" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1610435644195">
+    <state width="1419" height="316" key="GridCell.Tab.0.right" timestamp="1611394986656">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610435644195" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560248" />
+    <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
+    <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611305236211" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
     <state width="1419" height="316" key="GridCell.Tab.1.bottom" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
@@ -643,10 +686,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826033870" />
-    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1610435261830">
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1611299303704">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1610435261830" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1611299303704" />
+    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611205898477">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611205898477" />
     <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1610081176727">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
