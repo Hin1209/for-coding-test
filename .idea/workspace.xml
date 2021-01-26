@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
-      <change afterPath="$PROJECT_DIR$/Shortest Path/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shortest Path/problem2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,29 +51,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.problem2">
-    <configuration name="BOJ11000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy/BOJ11000.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Dynamic_Programming_problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Shortest_Path_problem1">
+    <configuration name="BOJ1005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/BOJ1005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dynamic_Programming_problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ11404" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +81,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dynamic Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/BOJ11404.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shortest_Path_problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/Shortest_Path_problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shortest_Path_problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/Shortest_Path_problem2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Shortest_Path_problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/Shortest_Path_problem3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,63 +199,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/problem1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Shortest Path" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Shortest Path/problem2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.Dynamic_Programming_problem3" />
-      <item itemvalue="Python.Dynamic_Programming_problem2" />
-      <item itemvalue="Python.BOJ11000" />
-      <item itemvalue="Python.problem1" />
-      <item itemvalue="Python.problem2" />
+      <item itemvalue="Python.BOJ1005" />
+      <item itemvalue="Python.BOJ11404" />
+      <item itemvalue="Python.Shortest_Path_problem1" />
+      <item itemvalue="Python.Shortest_Path_problem2" />
+      <item itemvalue="Python.Shortest_Path_problem3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.problem2" />
-        <item itemvalue="Python.problem1" />
-        <item itemvalue="Python.BOJ11000" />
-        <item itemvalue="Python.Dynamic_Programming_problem3" />
-        <item itemvalue="Python.Dynamic_Programming_problem2" />
+        <item itemvalue="Python.Shortest_Path_problem1" />
+        <item itemvalue="Python.Shortest_Path_problem3" />
+        <item itemvalue="Python.Shortest_Path_problem2" />
+        <item itemvalue="Python.BOJ1005" />
+        <item itemvalue="Python.BOJ11404" />
       </list>
     </recent_temporary>
   </component>
@@ -228,55 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Add BOJ11399.py">
-      <created>1610080768564</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1610080768564</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Add BOJ1541.py">
-      <created>1610085949028</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1610085949028</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Modify BOJ1541.py for Python version 3.7">
-      <created>1610088043465</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1610088043465</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Add content about problems">
-      <created>1610116386164</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1610116386164</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Add Implementation/example1.py">
-      <created>1610116422353</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1610116422353</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Add Implementation/example2.py">
-      <created>1610116427268</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1610116427268</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Add Implementation/problem1.py">
-      <created>1610116436208</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1610116436208</updated>
     </task>
     <task id="LOCAL-00027" summary="Add Implementation_problem1.py">
       <created>1610204250190</created>
@@ -572,7 +522,56 @@
       <option name="project" value="LOCAL" />
       <updated>1611540173441</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Add problem1.py">
+      <created>1611557616919</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1611557616919</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Add problem2.py">
+      <created>1611557621875</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1611557621875</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Add BOJ1005.py">
+      <created>1611644299982</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644299983</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Add BOJ11404.py">
+      <created>1611644308724</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644308724</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Add Shortest_Path_problem1.py.py">
+      <created>1611644326056</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644326056</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Add Shortest_Path_problem2.py.py">
+      <created>1611644330248</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644330248</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Add Shortest_Path_problem3.py.py">
+      <created>1611644335979</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644335979</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,19 +587,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rename from Implementation_problem3.py" />
-    <MESSAGE value="Rename from Implementation_problem4.py" />
-    <MESSAGE value="Rename from Implementation_problem1.py" />
-    <MESSAGE value="Add programmers60061.py" />
-    <MESSAGE value="Add BOJ3190.py" />
     <MESSAGE value="Add BOJ15686.py" />
     <MESSAGE value="Update BOJ2110.py" />
     <MESSAGE value="Update BOJ16234.py" />
     <MESSAGE value="Update Binary_search_problem1.py" />
     <MESSAGE value="Update Binary_search_problem2.py" />
     <MESSAGE value="Rename" />
-    <MESSAGE value="Add problem1.py" />
-    <MESSAGE value="Add problem2.py" />
     <MESSAGE value="Add problem3.py" />
     <MESSAGE value="Add problem4.py" />
     <MESSAGE value="Add Dynamic_Programming_problem1.py" />
@@ -613,7 +605,14 @@
     <MESSAGE value="Add Dynamic_Programming_problem3.py" />
     <MESSAGE value="Update README.md" />
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Add problem1.py" />
+    <MESSAGE value="Add problem2.py" />
+    <MESSAGE value="Add BOJ1005.py" />
+    <MESSAGE value="Add BOJ11404.py" />
+    <MESSAGE value="Add Shortest_Path_problem1.py.py" />
+    <MESSAGE value="Add Shortest_Path_problem2.py.py" />
+    <MESSAGE value="Add Shortest_Path_problem3.py.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Shortest_Path_problem3.py.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
@@ -632,33 +631,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
-    <state width="1419" height="316" key="GridCell.Tab.0.bottom" timestamp="1611555929983">
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1611643652498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560249" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611555929983" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611643652498" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
-    <state width="1419" height="316" key="GridCell.Tab.0.center" timestamp="1611555929983">
+    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1611643652496">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560247" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986655" />
-    <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611555929983" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611643652496" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="316" key="GridCell.Tab.0.left" timestamp="1611555929982">
+    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1611643652496">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560245" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986654" />
-    <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611555929982" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611643652496" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="316" key="GridCell.Tab.0.right" timestamp="1611555929983">
+    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1611643652497">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560248" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611555929983" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611643652497" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
     <state width="1419" height="316" key="GridCell.Tab.1.bottom" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
@@ -688,10 +687,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1609826033870" />
-    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1611551527563">
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1611621513698">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1611551527563" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1611621513698" />
     <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611205898477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -704,6 +703,10 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="dock-window-2/0.25.1440.875@0.25.1440.875" timestamp="1610081176728" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1611635515935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1611635515935" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

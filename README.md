@@ -70,3 +70,12 @@ x 표시는 아직 못 푼 문제
 * [병사 배치하기](https://www.acmicpc.net/problem/18353) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/BOJ18353.py))   
 * 못생긴 수 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/Dynamic_Programming_problem2.py))   
 * 편집 거리 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/Dynamic_Programming_problem3.py))   
+* [ACM Craft](https://www.acmicpc.net/problem/1005) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/BOJ1005.py))
+---
+## 최단 경로  
+* 미래 도시 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/problem1.py))   
+* 전보 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/problem2.py))
+* [플로이드](https://www.acmicpc.net/problem/11404) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/BOJ11404.py))   
+* 정확한 순위 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem1.py))   
+* 화성 탐사 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem2.py))   
+* 숨바꼭질 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem3.py))   
