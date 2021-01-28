@@ -71,6 +71,7 @@ x 표시는 아직 못 푼 문제
 * 못생긴 수 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/Dynamic_Programming_problem2.py))   
 * 편집 거리 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/Dynamic_Programming_problem3.py))   
 * [ACM Craft](https://www.acmicpc.net/problem/1005) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/BOJ1005.py))
+* [ACM Craft](https://www.acmicpc.net/problem/1005) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Dynamic%20Programming/BOJ1005.py)) # pypy3으로 통과, 아직 python3 으로는 통과 못함 
 ---
 ## 최단 경로  
 * 미래 도시 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/problem1.py))   
@@ -79,6 +80,7 @@ x 표시는 아직 못 푼 문제
 * 정확한 순위 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem1.py))   
 * 화성 탐사 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem2.py))   
 * 숨바꼭질 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Shortest%20Path/Shortest_Path_problem3.py))   
+<<<<<<< HEAD
 ---
 ## 그래프 이론   
 * 팀 결셩 ([Python 3.7]())   
@@ -89,3 +91,5 @@ x 표시는 아직 못 푼 문제
 * 어두운 길 ([Python 3.7]())   
 * [행성 터널]() ([Python 3.7]())   
 * [최종 순위]() ([Python 3.7]())   
+=======
+>>>>>>> ed30e65392e4dfd43015563dbf0e1f12322a396e
