@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
-      <change afterPath="$PROJECT_DIR$/Graph/BOJ10775.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -228,13 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Rename from Implementation_problem2.py">
-      <created>1610353083435</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1610353083435</updated>
     </task>
     <task id="LOCAL-00039" summary="Rename from Implementation_problem3.py">
       <created>1610353095346</created>
@@ -572,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611813770604</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Add BOJ10775.py">
+      <created>1611815173787</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1611815173787</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,7 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rename" />
     <MESSAGE value="Add problem3.py" />
     <MESSAGE value="Add problem4.py" />
     <MESSAGE value="Add Dynamic_Programming_problem1.py" />
@@ -613,7 +611,8 @@
     <MESSAGE value="Add BOJ2887.py" />
     <MESSAGE value="Add BOJ3665.py" />
     <MESSAGE value="Add BOJ6497.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ6497.py" />
+    <MESSAGE value="Add BOJ10775.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ10775.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
@@ -632,33 +631,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1611814866224">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1611814987765">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560249" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611814866224" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611814987765" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1611814866222">
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1611814987762">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560247" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986655" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611814866222" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611814987762" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1611814866220">
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1611814987761">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560245" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986654" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611814866220" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611814987761" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1611814866223">
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1611814987763">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560248" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611814866223" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611814987763" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
     <state width="1419" height="316" key="GridCell.Tab.1.bottom" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
