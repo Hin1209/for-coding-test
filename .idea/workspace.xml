@@ -20,73 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
-      <change afterPath="$PROJECT_DIR$/Greedy/Greedy_problem_문자열뒤집기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Greedy/programmers42891_무지의먹방라이브.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ10026.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ10026_적록색약.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ14502_연구소.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ14888.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ14888_연산자끼워넣기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ1569.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ7569_토마토.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ16234.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ16234_인구이동.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18352.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18352_특정거리의도시찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18405.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18405_경쟁적전염.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18428.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ18428_감시피하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/problem_음료수얼려먹기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/problem_미로탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/programmers60058.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/programmers60058_괄호변환.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS&amp;DFS/programmers60063.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFS&amp;DFS/programmers60063_블록이동하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/BOJ2110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/BOJ2110_공유기설치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/Binary_search_problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/Binary_search_problem_정렬된배열에서특정수의개수구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/Binary_search_problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/Binary_search_problem_고정점찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/problem_부품찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/problem_떡볶이떡만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary Search/programmers60060.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary Search/programmers60060_가사검색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/BOJ14501.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/BOJ14501_퇴사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/BOJ18353.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/BOJ18353_병사배치하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/BOJ1932.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/BOJ1932_정수삼각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/Dynamic_Programming_problem_금광.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/problem_1로만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/problem_개미전사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/problem_바닥공사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic Programming/problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic Programming/problem_효율적인화폐구성.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/BOJ1647.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/BOJ1647_도시_분할_계획.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/BOJ1976.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/BOJ1976_여행_계획.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/BOJ11399.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/BOJ11399_ATM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/BOJ11497.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/BOJ11497_통나무건너뛰기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/BOJ1541.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/BOJ1541_잃어버린괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/BOJ1946.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/BOJ1946_신입사원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem_모험가길드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem_곱하기혹은더하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem_만들수없는금액.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/Greedy_problem_볼링공.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/Greedy_problem6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/example_거스름돈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/problem_큰수의법칙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/problem_숫자카드게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy/problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy/problem_1이될때까지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ14500.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ14500_테트로미노.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ14503.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ14503_로봇청소기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ15686.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ15686_치킨배달.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ18406.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ18406_럭키스트레이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/BOJ3190.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/BOJ3190_뱀.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/Implementation_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Implementation_problem_문자열재정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/example_상하좌우.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/example_시각.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/problem_왕실의나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/problem_게임개발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/programmers60057.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/programmers60057_문자열압축.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/programmers60059.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/programmers60059_자물쇠와열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/programmers60061.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/programmers60061_기둥과보설치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/programmers60062.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/programmers60062_외벽점검.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/BOJ10825.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/BOJ10825_국영수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/BOJ1715.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/BOJ1715_카드정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/BOJ18310.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/BOJ18310_안테나.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/problem1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/problem_위에서아래로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/problem2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/problem_성적이낮은순서로학생출력하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/problem3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/problem_두배열의원소교체.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/programmers42889.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/programmers42889_실패율.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,8 +51,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BOJ10775">
-    <configuration name="BOJ10775" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ10775_탑승구">
+    <configuration name="BOJ10775_탑승구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ10775.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ10775_탑승구.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ1976_여행_계획" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ1976_여행계획" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ1976_여행_계획.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ1976_여행계획.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ2887" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ2887_행성터널" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ2887.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ2887_행성터널.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ3665" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ3665_최종순위" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ3665.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ3665_최종순위.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ6497" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ6497_어두운길" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ6497.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ6497_어두운길.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +201,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.BOJ2887" />
-      <item itemvalue="Python.BOJ3665" />
-      <item itemvalue="Python.BOJ6497" />
-      <item itemvalue="Python.BOJ10775" />
-      <item itemvalue="Python.BOJ1976_여행_계획" />
+      <item itemvalue="Python.BOJ2887_행성터널" />
+      <item itemvalue="Python.BOJ3665_최종순위" />
+      <item itemvalue="Python.BOJ6497_어두운길" />
+      <item itemvalue="Python.BOJ10775_탑승구" />
+      <item itemvalue="Python.BOJ1976_여행계획" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ10775" />
-        <item itemvalue="Python.BOJ3665" />
-        <item itemvalue="Python.BOJ2887" />
-        <item itemvalue="Python.BOJ6497" />
-        <item itemvalue="Python.BOJ1976_여행_계획" />
+        <item itemvalue="Python.BOJ10775_탑승구" />
+        <item itemvalue="Python.BOJ3665_최종순위" />
+        <item itemvalue="Python.BOJ2887_행성터널" />
+        <item itemvalue="Python.BOJ6497_어두운길" />
+        <item itemvalue="Python.BOJ1976_여행계획" />
       </list>
     </recent_temporary>
   </component>
@@ -292,13 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Rename from Implementation_problem4.py">
-      <created>1610353102322</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1610353102322</updated>
     </task>
     <task id="LOCAL-00041" summary="Rename from Implementation_problem1.py">
       <created>1610353110071</created>
@@ -636,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611816401195</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Rename Files">
+      <created>1611895013361</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1611895013362</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -652,7 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add problem3.py" />
     <MESSAGE value="Add problem4.py" />
     <MESSAGE value="Add Dynamic_Programming_problem1.py" />
     <MESSAGE value="Add BOJ1932.py" />
@@ -677,7 +611,8 @@
     <MESSAGE value="Add BOJ6497.py" />
     <MESSAGE value="Add BOJ10775.py" />
     <MESSAGE value="Update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+    <MESSAGE value="Rename Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename Files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
@@ -787,17 +722,17 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Graph/BOJ6497.py</url>
+          <url>file://$PROJECT_DIR$/Graph/BOJ6497_어두운길.py</url>
           <line>35</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Graph/BOJ3665.py</url>
+          <url>file://$PROJECT_DIR$/Graph/BOJ3665_최종순위.py</url>
           <line>46</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Graph/BOJ10775.py</url>
+          <url>file://$PROJECT_DIR$/Graph/BOJ10775_탑승구.py</url>
           <line>24</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
