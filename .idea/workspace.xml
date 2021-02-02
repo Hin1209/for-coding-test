@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
+      <change afterPath="$PROJECT_DIR$/Implementation/BOJ5430_AC.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.BOJ10775_탑승구">
+  <component name="RunManager" selected="Python.problem_떡볶이떡만들기">
     <configuration name="BOJ10775_탑승구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,27 +65,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ10775_탑승구.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ1976_여행계획" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="for-coding-test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graph" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graph/BOJ1976_여행계획.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,21 +178,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem_떡볶이떡만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="for-coding-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Binary Search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binary Search/problem_떡볶이떡만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.BOJ10775_탑승구" />
       <item itemvalue="Python.BOJ2887_행성터널" />
       <item itemvalue="Python.BOJ3665_최종순위" />
       <item itemvalue="Python.BOJ6497_어두운길" />
-      <item itemvalue="Python.BOJ10775_탑승구" />
-      <item itemvalue="Python.BOJ1976_여행계획" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.problem_떡볶이떡만들기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem_떡볶이떡만들기" />
         <item itemvalue="Python.BOJ10775_탑승구" />
         <item itemvalue="Python.BOJ3665_최종순위" />
         <item itemvalue="Python.BOJ2887_행성터널" />
         <item itemvalue="Python.BOJ6497_어두운길" />
-        <item itemvalue="Python.BOJ1976_여행계획" />
       </list>
     </recent_temporary>
   </component>
@@ -227,34 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Rename from Implementation_problem1.py">
-      <created>1610353110071</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1610353110071</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Add programmers60061.py">
-      <created>1610353132354</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1610353132354</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Add BOJ3190.py">
-      <created>1610353145653</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1610353145653</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Add BOJ15686.py">
-      <created>1610357966963</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1610357966963</updated>
     </task>
     <task id="LOCAL-00045" summary="Update README.md">
       <created>1611205802809</created>
@@ -571,7 +543,35 @@
       <option name="project" value="LOCAL" />
       <updated>1611895013362</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Rename Files">
+      <created>1611896187431</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1611896187431</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Update README.md">
+      <created>1611896253418</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1611896253418</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Add BOJ1012_유기농배추.py">
+      <created>1612228195599</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1612228195599</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Add BOJ1260_DFS와BFS.py">
+      <created>1612228207804</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1612228207805</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -587,8 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add problem4.py" />
-    <MESSAGE value="Add Dynamic_Programming_problem1.py" />
     <MESSAGE value="Add BOJ1932.py" />
     <MESSAGE value="Add BOJ14501.py" />
     <MESSAGE value="Add Dynamic_Programming_problem2.py" />
@@ -610,9 +608,11 @@
     <MESSAGE value="Add BOJ3665.py" />
     <MESSAGE value="Add BOJ6497.py" />
     <MESSAGE value="Add BOJ10775.py" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Rename Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename Files" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Add BOJ1012_유기농배추.py" />
+    <MESSAGE value="Add BOJ1260_DFS와BFS.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ1260_DFS와BFS.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
@@ -631,33 +631,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="541" y="356" key="GitRewordDialog/0.0.1440.900@0.0.1440.900" timestamp="1609908260163" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom" timestamp="1611821915552">
+    <state width="1419" height="234" key="GridCell.Tab.0.bottom" timestamp="1611932604816">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560249" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611821915552" />
+    <state width="1419" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1611932604816" />
     <state width="1419" height="316" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center" timestamp="1611821915552">
+    <state width="1419" height="234" key="GridCell.Tab.0.center" timestamp="1611932604815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560247" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986655" />
-    <state width="1419" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611821915552" />
+    <state width="1419" height="234" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1611932604815" />
     <state width="1419" height="316" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left" timestamp="1611821915551">
+    <state width="1419" height="234" key="GridCell.Tab.0.left" timestamp="1611932604814">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560245" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986654" />
-    <state width="1419" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611821915551" />
+    <state width="1419" height="234" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1611932604814" />
     <state width="1419" height="316" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1610358003937" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right" timestamp="1611821915552">
+    <state width="1419" height="234" key="GridCell.Tab.0.right" timestamp="1611932604816">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-215.1288.921@0.0.1440.900" timestamp="1611392560248" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.0.1440.900/-1288.-240.1288.946@0.0.1440.900" timestamp="1611394986656" />
-    <state width="1419" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611821915552" />
+    <state width="1419" height="234" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1611932604816" />
     <state width="1419" height="316" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1610358003938" />
     <state width="1419" height="316" key="GridCell.Tab.1.bottom" timestamp="1610435305707">
       <screen x="0" y="0" width="1440" height="900" />
