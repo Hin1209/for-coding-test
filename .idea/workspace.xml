@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py" />
+    <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.problem_떡볶이떡만들기">
@@ -224,13 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Update BOJ2110.py">
-      <created>1611207020823</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1611207020823</updated>
     </task>
     <task id="LOCAL-00047" summary="Update BOJ16234.py">
       <created>1611207445171</created>
@@ -568,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612248661435</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Add BOJ11724_연결요소의개수.py">
+      <created>1612267807924</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1612267807924</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,7 +588,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add BOJ14501.py" />
     <MESSAGE value="Add Dynamic_Programming_problem2.py" />
     <MESSAGE value="Add BOJ18353.py" />
     <MESSAGE value="Update Dynamic_Programming_problem1.py" />
@@ -609,7 +612,8 @@
     <MESSAGE value="Add BOJ1012_유기농배추.py" />
     <MESSAGE value="Add BOJ1260_DFS와BFS.py" />
     <MESSAGE value="Add BOJ5430_AC.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ5430_AC.py" />
+    <MESSAGE value="Add BOJ11724_연결요소의개수.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ11724_연결요소의개수.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">

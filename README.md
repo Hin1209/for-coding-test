@@ -30,7 +30,8 @@ x 표시는 아직 못 푼 문제
 * [치킨 배달](https://www.acmicpc.net/problem/15686) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC.py))
 * X [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/programmers60062_%EC%99%B8%EB%B2%BD%EC%A0%90%EA%B2%80.py))
 * [테트로미노](https://www.acmicpc.net/problem/14500) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py))      
-* [로봇청소기](https://www.acmicpc.net/problem/14503) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.py))   
+* [로봇청소기](https://www.acmicpc.net/problem/14503) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.py))  
+* [AC](https://www.acmicpc.net/problem/5430) ([Python 3.7]()) 
 ---   
 ## BFS/DFS  
 * 음료수 얼려 먹기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem_%EC%9D%8C%EB%A3%8C%EC%88%98%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.py))
@@ -45,6 +46,8 @@ x 표시는 아직 못 푼 문제
 * X [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/programmers60063_%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py))  
 * [적록색약](https://www.acmicpc.net/problem/10026) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py))  
 * [토마토](https://www.acmicpc.net/problem/7569) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ7569_%ED%86%A0%EB%A7%88%ED%86%A0.py))  
+* [유기농배추](https://www.acmicpc.net/problem/1012) ([Python 3.7]())
+* [DFS와 BFS](https://www.acmicpc.net/problem/1260) ([Python 3.7]())
 --- 
 ## 정렬   
 * 위에서 아래로 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem_%EC%9C%84%EC%97%90%EC%84%9C%EC%95%84%EB%9E%98%EB%A1%9C.py))
@@ -93,3 +96,5 @@ x 표시는 아직 못 푼 문제
 * [어두운 길](https://www.acmicpc.net/problem/6497) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ6497_%EC%96%B4%EB%91%90%EC%9A%B4%EA%B8%B8.py))   
 * [행성 터널](https://www.acmicpc.net/problem/2887) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ2887_%ED%96%89%EC%84%B1%ED%84%B0%EB%84%90.py))   
 * [최종 순위](https://w````ww.acmicpc.net/problem/3665) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ3665_%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.py))   
+* [연결요소의 개수](https://www.acmicpc.net/problem/11724) ([Python 3.7]())
+
