@@ -48,6 +48,9 @@ x 표시는 아직 못 푼 문제
 * [토마토](https://www.acmicpc.net/problem/7569) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ7569_%ED%86%A0%EB%A7%88%ED%86%A0.py))  
 * [유기농배추](https://www.acmicpc.net/problem/1012) ([Python 3.7]())
 * [DFS와 BFS](https://www.acmicpc.net/problem/1260) ([Python 3.7]())
+* [미로찾기](https://www.acmicpc.net/problem/2178) ([Python 3.7]())
+* [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) ([Python 3.7]())
+* [토마토(easy)](https://www.acmicpc.net/problem/7576) ([Python 3.7]())
 --- 
 ## 정렬   
 * 위에서 아래로 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem_%EC%9C%84%EC%97%90%EC%84%9C%EC%95%84%EB%9E%98%EB%A1%9C.py))
@@ -97,4 +100,10 @@ x 표시는 아직 못 푼 문제
 * [행성 터널](https://www.acmicpc.net/problem/2887) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ2887_%ED%96%89%EC%84%B1%ED%84%B0%EB%84%90.py))   
 * [최종 순위](https://w````ww.acmicpc.net/problem/3665) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ3665_%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.py))   
 * [연결요소의 개수](https://www.acmicpc.net/problem/11724) ([Python 3.7]())
+* [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ([Python 3.7]())
+* [숨바꼭질](https://www.acmicpc.net/problem/1697) ([Python 3.7]())
+---
+## 분할 정복  
+* [Z](https://www.acmicpc.net/problem/1074) ([Python 3.7]())
+* [쿼드 트리](https://www.acmicpc.net/problem/1992) ([Python 3.7]())
 

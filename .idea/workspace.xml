@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
+      <change afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ2178_미로찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ2667_단지번호붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BFS&amp;DFS/BOJ7576_토마토(easy).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -201,11 +204,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.BOJ10775_탑승구" />
       <item itemvalue="Python.BOJ2887_행성터널" />
       <item itemvalue="Python.BOJ3665_최종순위" />
       <item itemvalue="Python.BOJ6497_어두운길" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.problem_떡볶이떡만들기" />
     </list>
     <recent_temporary>
@@ -228,41 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Update BOJ16234.py">
-      <created>1611207445171</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1611207445171</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Update Binary_search_problem1.py">
-      <created>1611207848250</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1611207848250</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Update Binary_search_problem2.py">
-      <created>1611208164040</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1611208164040</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Update README.md">
-      <created>1611208286440</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1611208286440</updated>
-    </task>
-    <task id="LOCAL-00051" summary="Rename">
-      <created>1611208436822</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1611208436823</updated>
     </task>
     <task id="LOCAL-00052" summary="Add README.md">
       <created>1611211199764</created>
@@ -572,7 +540,42 @@
       <option name="project" value="LOCAL" />
       <updated>1612267807924</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Update README.md">
+      <created>1612268877958</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1612268877958</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Add BOJ1074_Z.py">
+      <created>1612402183438</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1612402183439</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Add BOJ1389_케빈베이컨의6단계법칙.py">
+      <created>1612402196211</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1612402196211</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Add BOJ1697_숨바꼭질.py">
+      <created>1612402206109</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1612402206109</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Add BOJ1992_쿼드트리.py">
+      <created>1612402215521</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1612402215521</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,10 +591,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Dynamic_Programming_problem2.py" />
-    <MESSAGE value="Add BOJ18353.py" />
-    <MESSAGE value="Update Dynamic_Programming_problem1.py" />
-    <MESSAGE value="Update Dynamic_Programming_problem2.py" />
     <MESSAGE value="Add Dynamic_Programming_problem3.py" />
     <MESSAGE value="Add BOJ1005.py" />
     <MESSAGE value="Add BOJ11404.py" />
@@ -608,12 +607,16 @@
     <MESSAGE value="Add BOJ6497.py" />
     <MESSAGE value="Add BOJ10775.py" />
     <MESSAGE value="Rename Files" />
-    <MESSAGE value="Update README.md" />
     <MESSAGE value="Add BOJ1012_유기농배추.py" />
     <MESSAGE value="Add BOJ1260_DFS와BFS.py" />
     <MESSAGE value="Add BOJ5430_AC.py" />
     <MESSAGE value="Add BOJ11724_연결요소의개수.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ11724_연결요소의개수.py" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Add BOJ1074_Z.py" />
+    <MESSAGE value="Add BOJ1389_케빈베이컨의6단계법칙.py" />
+    <MESSAGE value="Add BOJ1697_숨바꼭질.py" />
+    <MESSAGE value="Add BOJ1992_쿼드트리.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BOJ1992_쿼드트리.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="604" y="317" width="467" height="453" key="#Notifications" timestamp="1611205965994">
