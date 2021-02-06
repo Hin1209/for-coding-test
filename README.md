@@ -102,6 +102,7 @@ x 표시는 아직 못 푼 문제
 * [연결요소의 개수](https://www.acmicpc.net/problem/11724) ([Python 3.7]())
 * [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ([Python 3.7]())
 * [숨바꼭질](https://www.acmicpc.net/problem/1697) ([Python 3.7]())
+* [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) ([Python 3.7]())
 ---
 ## 분할 정복  
 * [Z](https://www.acmicpc.net/problem/1074) ([Python 3.7]())
