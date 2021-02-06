@@ -31,7 +31,7 @@ x 표시는 아직 못 푼 문제
 * X [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/programmers60062_%EC%99%B8%EB%B2%BD%EC%A0%90%EA%B2%80.py))
 * [테트로미노](https://www.acmicpc.net/problem/14500) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ14500_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8.py))      
 * [로봇청소기](https://www.acmicpc.net/problem/14503) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0.py))  
-* [AC](https://www.acmicpc.net/problem/5430) ([Python 3.7]()) 
+* [AC](https://www.acmicpc.net/problem/5430) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Implementation/BOJ5430_AC.py)) 
 ---   
 ## BFS/DFS  
 * 음료수 얼려 먹기 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/problem_%EC%9D%8C%EB%A3%8C%EC%88%98%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.py))
@@ -46,11 +46,11 @@ x 표시는 아직 못 푼 문제
 * X [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/programmers60063_%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py))  
 * [적록색약](https://www.acmicpc.net/problem/10026) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD.py))  
 * [토마토](https://www.acmicpc.net/problem/7569) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ7569_%ED%86%A0%EB%A7%88%ED%86%A0.py))  
-* [유기농배추](https://www.acmicpc.net/problem/1012) ([Python 3.7]())
-* [DFS와 BFS](https://www.acmicpc.net/problem/1260) ([Python 3.7]())
-* [미로찾기](https://www.acmicpc.net/problem/2178) ([Python 3.7]())
-* [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) ([Python 3.7]())
-* [토마토(easy)](https://www.acmicpc.net/problem/7576) ([Python 3.7]())
+* [유기농배추](https://www.acmicpc.net/problem/1012) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.py))
+* [DFS와 BFS](https://www.acmicpc.net/problem/1260) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ1260_DFS%EC%99%80BFS.py))
+* [미로찾기](https://www.acmicpc.net/problem/2178) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ2178_%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0.py))
+* [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py))
+* [토마토(easy)](https://www.acmicpc.net/problem/7576) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/BFS%26DFS/BOJ7576_%ED%86%A0%EB%A7%88%ED%86%A0(easy).py))
 --- 
 ## 정렬   
 * 위에서 아래로 ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Sorting/problem_%EC%9C%84%EC%97%90%EC%84%9C%EC%95%84%EB%9E%98%EB%A1%9C.py))
@@ -99,12 +99,12 @@ x 표시는 아직 못 푼 문제
 * [어두운 길](https://www.acmicpc.net/problem/6497) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ6497_%EC%96%B4%EB%91%90%EC%9A%B4%EA%B8%B8.py))   
 * [행성 터널](https://www.acmicpc.net/problem/2887) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ2887_%ED%96%89%EC%84%B1%ED%84%B0%EB%84%90.py))   
 * [최종 순위](https://w````ww.acmicpc.net/problem/3665) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ3665_%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.py))   
-* [연결요소의 개수](https://www.acmicpc.net/problem/11724) ([Python 3.7]())
-* [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ([Python 3.7]())
-* [숨바꼭질](https://www.acmicpc.net/problem/1697) ([Python 3.7]())
-* [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) ([Python 3.7]())
+* [연결요소의 개수](https://www.acmicpc.net/problem/11724) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98.py))
+* [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ1389_%EC%BC%80%EB%B9%88%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%986%EB%8B%A8%EA%B3%84%EB%B2%95%EC%B9%99.py))
+* [숨바꼭질](https://www.acmicpc.net/problem/1697) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ1697_%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py))
+* [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Graph/BOJ9205_%EB%A7%A5%EC%A3%BC%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py))
 ---
 ## 분할 정복  
-* [Z](https://www.acmicpc.net/problem/1074) ([Python 3.7]())
-* [쿼드 트리](https://www.acmicpc.net/problem/1992) ([Python 3.7]())
+* [Z](https://www.acmicpc.net/problem/1074) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Divide%20and%20Conquer/BOJ1074_Z.py))
+* [쿼드 트리](https://www.acmicpc.net/problem/1992) ([Python 3.7](https://github.com/Tin1209/for-coding-test/blob/main/Divide%20and%20Conquer/BOJ1992_%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.py))
 

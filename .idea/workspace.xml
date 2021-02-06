@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="423a2d25-9d4c-4fd2-98b5-dd0d7e76db72" name="Default Changelist" comment="Add Implementation/problem1.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,11 +201,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.BOJ10775_탑승구" />
       <item itemvalue="Python.BOJ2887_행성터널" />
       <item itemvalue="Python.BOJ3665_최종순위" />
       <item itemvalue="Python.BOJ6497_어두운길" />
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.problem_떡볶이떡만들기" />
     </list>
     <recent_temporary>
@@ -227,20 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Add problem4.py">
-      <created>1611214834712</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1611214834712</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Update README.md">
-      <created>1611215107998</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1611215107998</updated>
     </task>
     <task id="LOCAL-00058" summary="Add Dynamic_Programming_problem1.py">
       <created>1611281838274</created>
@@ -571,7 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612489815758</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Add BOJ9205_맥주마시면서걸어가기.py">
+      <created>1612596575350</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1612596575351</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Update README.md">
+      <created>1612596584992</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1612596584992</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -587,7 +588,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Shortest_Path_problem1.py.py" />
     <MESSAGE value="Add Shortest_Path_problem2.py.py" />
     <MESSAGE value="Add Shortest_Path_problem3.py.py" />
     <MESSAGE value="Add README.md" />
@@ -611,6 +611,7 @@
     <MESSAGE value="Add BOJ2178_미로찾기.py" />
     <MESSAGE value="Add BOJ2667_단지번호붙이기.py" />
     <MESSAGE value="Add BOJ7576_토마토(easy).py" />
+    <MESSAGE value="Add BOJ9205_맥주마시면서걸어가기.py" />
     <MESSAGE value="Update README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
