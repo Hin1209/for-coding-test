@@ -228,20 +228,6 @@
       <option name="presentableId" value="Default" />
       <updated>1609745830951</updated>
     </task>
-    <task id="LOCAL-00059" summary="Add BOJ1932.py">
-      <created>1611289966059</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1611289966059</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Add BOJ14501.py">
-      <created>1611295732222</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1611295732222</updated>
-    </task>
     <task id="LOCAL-00061" summary="Add Dynamic_Programming_problem2.py">
       <created>1611299424873</created>
       <option name="number" value="00061" />
@@ -571,7 +557,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612596868677</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Add BOJ11047_동전0.py">
+      <created>1612703529793</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1612703529793</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Update README.md">
+      <created>1612703596813</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1612703596813</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -587,7 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Shortest_Path_problem2.py.py" />
     <MESSAGE value="Add Shortest_Path_problem3.py.py" />
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add BOJ1647.py" />
@@ -611,6 +610,7 @@
     <MESSAGE value="Add BOJ2667_단지번호붙이기.py" />
     <MESSAGE value="Add BOJ7576_토마토(easy).py" />
     <MESSAGE value="Add BOJ9205_맥주마시면서걸어가기.py" />
+    <MESSAGE value="Add BOJ11047_동전0.py" />
     <MESSAGE value="Update README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
   </component>
